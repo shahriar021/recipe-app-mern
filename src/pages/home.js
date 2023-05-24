@@ -56,14 +56,7 @@ export const Home = () => {
   return (
     <div>
       <h1>All Recipes</h1>
-      <h1>All Recipes</h1>
-      <h1>All Recipes</h1>
-      <h1>All Recipes</h1>
-      <h1>All Recipes</h1>
-      <h1>All Recipes</h1>
-      <h1>All Recipes</h1>
-      <h1>All Recipes</h1>
-      <h1>All Recipes</h1>
+      
       <h1>All Recipes</h1>
       <h2>enjoy!!</h2>
       <h2>enjoy!!</h2>

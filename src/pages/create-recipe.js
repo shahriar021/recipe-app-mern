@@ -74,7 +74,7 @@ export const CreateRecipes = () => {
           Add Ingredient
         </button>
 
-        <label htmlFor="instructions">instructions</label>
+        <label htmlFor="instructions">instructions for recipes</label>
         <textarea
           id="instructions"
           name="instructions"
